@@ -113,7 +113,8 @@ o	F
 5.	Verify that F = 1 whenever B and D are equal.
 6.	Verify that F = 0 whenever B and D are different.
 The waveform should agree with the truth table.
-<img width="1843" height="928" alt="Screenshot 2026-10-09 092824" src="https://github.com/user-attachments/assets/8a9b1b9f-bbc3-46d1-846c-4087651a7dff" />
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/bfbdb7fd-16cd-4878-958d-c96637d9010f" />
+
 
  
 ### Expected Result
