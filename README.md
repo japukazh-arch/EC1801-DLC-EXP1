@@ -113,7 +113,6 @@ o	F
 5.	Verify that F = 1 whenever B and D are equal.
 6.	Verify that F = 0 whenever B and D are different.
 The waveform should agree with the truth table.
-<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/bfbdb7fd-16cd-4878-958d-c96637d9010f" />
 
 
  
@@ -125,10 +124,10 @@ and successfully implemented using Verilog HDL.
 
 ## OUTPUT
 
-
+<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/bfbdb7fd-16cd-4878-958d-c96637d9010f" />
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
-7. Viva-Voce Questions
+## Viva-Voce Questions
 1.	What is Boolean function minimization?
 2.	What is a minterm?
 3.	What is a Karnaugh map?
