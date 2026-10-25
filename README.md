@@ -21,6 +21,7 @@ exp1_boolean_min.vcd	VCD waveform dump generated during simulation
 
 ## Verilog Program
 ~~~
+// gedit fun.v
 module fun (
 input wire A, 
 input wire B, 
@@ -34,6 +35,7 @@ endmodule
 
 ## TestBench Program
 ~~~
+// gedit tb.v
 module tb;
     reg A, B;
     wire F;
@@ -143,6 +145,6 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 13.	What is the purpose of $dumpfile?
 14.	What is the purpose of $dumpvars?
 
-Result
+## Result
 Thus, the Boolean function was minimized, implemented using Verilog HDL, successfully simulated using Synopsys VCS, and verified using Synopsys DVE.
 
